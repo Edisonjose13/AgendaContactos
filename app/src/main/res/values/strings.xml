@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AgendaContactos</string>
+    <string name="layout_nombre">Nombre Completo</string>
+    <string name="layout_telefono">Telefono</string>
+    <string name="layout_email">Email</string>
+    <string name="layout_description">Description Contacto</string>
+    <string name="button_next">Siguiente</string>
+    <string name="textDate">Fecha de nacimiento</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">Ok</string>
+    <string name="intentdia">varibledia</string>
+    <string name="intentmes">variblemes</string>
+    <string name="intentyear">varibleyear</string>
+    <string name="intentemail">varibleemail </string>
+    <string name="intentnombre">variblenombre</string>
+    <string name="intentdescripcion">varibledescription</string>
+    <string name="intenttelefono">varibletelefono</string>
+
+    <string name="titulopantalla">Confirmar Datos</string>
+    <string name="nameBundle">name</string>
+    <string name="telefonoBundle">phone</string>
+    <string name="emailBundle">gmail</string>
+    <string name="descripcionBundle">aca</string>
+    <string name="fechaBundle">101010</string>
+
+    <string name="fechapantalla">Fecha de nacimiento: </string>
+    <string name="telefopantalla">Tel: </string>
+    <string name="emailpantalla">Email: </string>
+    <string name="descripcionpantalla">Descripcion: </string>
+    <string name="editarbutton">Editar Datos</string>
+</resources>
