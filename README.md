@@ -9,6 +9,6 @@ Acontinuacion algunos de los pantallazos sacado de la aplicacion.
 
 Esta esta compuesta de dos activities. En el principal se pueden setear los datos de el contactoa  ingresar para si posterior visualizacion en TextWigdets.
 
-<img scr="AgendaContactos/imagetests/imagen1">
+<img scr="AgendaContactos/imagetests/imagen1.jpeg">
 
 
